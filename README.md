@@ -4,7 +4,7 @@ No more excuses — Push Cash is here to keep your transactions (and your friend
 
 🚀 Project Highlight – Push Cash | A Digital Wallet System
 
-As part of my Data Structures course, I developed Push Cash, a simplified digital wallet system that lets users send, receive, and manage money securely — with a clean interface and real-time updates.
+As part of my Data Structures course,We developed Push Cash, a simplified digital wallet system that lets users send, receive, and manage money securely — with a clean interface and real-time updates.
 
 🔧 Technologies Used:
 🟦 C++ for backend logic
